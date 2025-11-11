@@ -1,4 +1,6 @@
 python-dotenv
 openai
 streamlit
+azure-identity
+azure-ai-projects
 
